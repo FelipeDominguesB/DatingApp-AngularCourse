@@ -43,3 +43,6 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# Removendo a pasta de SSL por bom costume
+ssl
